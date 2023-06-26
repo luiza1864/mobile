@@ -1,0 +1,77 @@
+
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: rgb(98, 145, 233);
+
+}
+.container{
+    margin-top: 60px;
+}
+
+.titulo {
+    background-color: rgb(7, 77, 168);
+    height: 60px;
+    padding: 1em;
+    font-size: 50px;
+    margin-bottom: 20px;
+    text-align: center;
+    border-radius: 30px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+
+h5 {
+    margin-top: 5px;
+}
+
+button {
+    background-color: rgb(7, 77, 168);
+    color: aliceblue;
+    padding: 10px;
+    border-radius: 30px;
+    transition: all ease 0.3s;
+    width: 15%;
+    margin: 10px;
+
+    
+}
+
+button:hover {
+    background-color: rgb(68, 33, 100);
+    
+}
+
+.formulario {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid gray;  
+}
+
+
+
+.content {
+    margin-top: 15px;
+}
+
+table {
+    border-collapse: collapse;
+    border: 1px solid grey;
+    width: 100%;
+}
+
+table th {
+    background-color: rgb(204, 204, 204);
+}
+
+table th, td {
+    text-align: left;
+    padding: 1px 5px;
+}
+
+.center {
+    text-align: center;
+}
