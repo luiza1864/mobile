@@ -1,0 +1,31 @@
+body{
+    font-size: large;
+    width: 0 auto;
+    background-color: rgb(27, 136, 209);
+    text-align: center;
+    position: fixed;
+    top: 10px;
+    bottom: 0px;
+    margin: 0px;
+    padding: 0px;
+    left: 0px;
+    right: 0px;
+ }
+ p{
+    font-size:x-large;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 35px;
+ }
+ form,label{
+    display: block;
+    padding: 10px;
+ }
+  input{ 
+    border-style: solid;
+    border-color: rgb(1, 19, 24);
+  }
+  form{
+    margin: 150 px;
+    border-style:solid;
+    border-color: rgb(0, 0, 0);
+  }
